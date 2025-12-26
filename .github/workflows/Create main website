@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GALAYOS CIVIL ENGINEERING AND CONSULTANCY</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>GALAYOS CIVIL ENGINEERING AND CONSULTANCY</h1>
+        </div>
+    </header>
+
+    <section id="home" class="hero">
+        <h2>Professional Civil Engineering Solutions</h2>
+        <p>Quality engineering services with over 15 years of experience</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="services-grid">
+            <div class="service">
+                <h3>Structural Design</h3>
+                <p>Building, bridge, and infrastructure design</p>
+            </div>
+            <div class="service">
+                <h3>Construction Supervision</h3>
+                <p>Quality control and project management</p>
+            </div>
+            <div class="service">
+                <h3>Geotechnical Engineering</h3>
+                <p>Soil analysis and foundation design</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <h2>Contact Us</h2>
+        <div class="contact-info">
+            <h3>GALAYOS CIVIL ENGINEERING AND CONSULTANCY</h3>
+            <div class="phone-numbers">
+                <p><strong>Phone Numbers:</strong></p>
+                <p>+251 915 955 925</p>
+                <p>+251 921 869 142</p>
+                <p>+252 636 018 088</p>
+            </div>
+            <p>Email: info@galayoscivilengineering.com</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 GALAYOS CIVIL ENGINEERING AND CONSULTANCY</p>
+    </footer>
+</body>
+</html>
