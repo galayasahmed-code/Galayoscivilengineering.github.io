@@ -9,5 +9,5 @@
 
 ### 🔗 Contact
 - Website: https://galayoscivilengineering.github.io  
-- Email: galay asahmed@gmail.com  
+- Email: galayasahmed@gmail.com  
 - WhatsApp: https://wa.me/252636018088
